@@ -3,6 +3,7 @@
 -- C++ Programming
 -- ESP Programming
 -- Home Automation
+-- 3D Printing
 
 
 <!---
